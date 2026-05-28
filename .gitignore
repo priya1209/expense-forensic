@@ -1,0 +1,5 @@
+
+expense-forensic-backend/node_modules/
+expense-forensic-backend/dist/
+expense-forensic-frontend/node_modules/
+expense-forensic-frontend/.next/
